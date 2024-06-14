@@ -1,0 +1,17 @@
+---
+info:
+  name: validator-4
+  account-address: "0xcb3d731a32f6fc52feddbc35d182dba884cc953b7d22e18e21bed395d601a207"
+  protocol-key: jxuKVFe1MjXJN13X6jZZ4nZDg1ZgxfBru66mSae5khAJu+P+eMo2C3q5pLb9IG0TCmj7hH1WwnRecnD9/4jeTFNq8UUaPX4f1YHDXcZEZD4nwx4gWo1kl4a2BAiSNvAY
+  worker-key: qs67yI6MwvFbG7nJku5UPpjMiRecD8wrij3u/n7yfLg=
+  network-key: Vg/gJX2UlvS3IiYynuHdzNf/YxaKrC8DCEo+huiw6Cg=
+  gas-price: 5000
+  commission-rate: 200
+  network-address: /dns/47.237.94.197/tcp/8080/http
+  p2p-address: /dns/47.237.94.197/udp/8084
+  narwhal-primary-address: /dns/47.237.94.197/udp/8081
+  narwhal-worker-address: /dns/47.237.94.197/udp/8082
+  description: validator-4
+  image-url: ""
+  project-url: ""
+proof_of_possession: o4z7Db1bnk1JovGXImb4CsUddisLeaZGCZqlGr/2dmjkD9H/dmgM2J3WaZ30hVm/
